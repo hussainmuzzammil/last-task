@@ -1,0 +1,169 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.sec1{
+    display: flex;
+    background-color:rgba(3, 1, 1, 0.76);
+    color: white;
+}
+.div1{
+    display: flex;
+    margin-left: 9%;
+}
+.navbar{
+    display: flex;
+    margin-left: 23%;
+}
+.navbar li{
+    list-style: none;
+    margin-left: 40px;
+    margin-top:4%;
+}
+.div1 h2{
+letter-spacing: 5px;
+}
+.div1 p{
+ position: relative;
+ left: 100px;
+ margin-top: 7%;
+ font-family: "baloo 2",cursive;
+}
+.sec2{
+    background-image: url(./TheBibleHacker.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    padding-top: 50px;
+}
+
+.div2{
+    text-align: center;
+    color: white;
+}
+.div2 hr{
+    width: 330px;
+}
+.div2 h1{
+    letter-spacing: 12px;
+}
+.div2 p{
+    letter-spacing: 3px;
+}
+/* main body */
+.hr{
+    width: 80%;
+}
+
+.main-div{
+    display: flex;
+    padding: 50px;
+}
+.btn{
+    color: aliceblue;
+    padding: 7px 15px;
+    background-color: rgb(31, 31, 31);
+    border-radius: 7%;
+    border-style: none;
+}
+.span{
+    display: flex;
+    flex-direction: row;
+}
+.bgi{
+    background-image: url(./R\ \(7\).jpg);
+    width: 250px;
+    height: 220px;
+    color: white;
+    text-align: center;
+}
+.maindiv2{
+    display: flex;
+}
+.maindiv2 div{
+    width: 22%;
+    margin-left: 20px;
+}
+.pera1{
+    margin-top: 60px;
+    width: 260px;
+    margin-left: 20px;
+}
+#btn2{
+    margin-left: 90%;
+}
+.blog{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.testi{
+    margin-left: 37%;
+}
+.blog h3{
+    letter-spacing: 5px;
+}
+.image{
+    width: 100px;
+    margin-top: 25px;
+}
+.dv1{
+    display: flex;
+    padding: 5px;
+    padding-left: 50px;
+}
+.dv1 p{
+    width: 400px;
+}
+.dv2{
+    padding: 5px;
+}
+.myimg{
+    display: flex;
+}
+.div3{
+    display: flex;
+}
+.div4{
+    display: flex;
+    /* justify-content: flex-end; */
+    margin-right: 50px;
+}
+.child1{
+    width: 35%;
+    text-align: center;
+    padding: 10px 50px ;
+
+}
+.loremm{
+    text-align: center;
+    padding: 10px 50px;
+    width: 35%;
+}
+.sec4{
+    background-color: rgba(22, 18, 18, 0.815);
+    border-top: 7px solid rgba(61, 10, 10, 0.87);
+    color: white;
+}
+.lastdiv{
+    display: flex;
+}
+.lastdiv div{
+margin-left: 6%;
+}
+.lastbar{
+    display: flex;
+    margin-left: 3%;
+}
+.lastbar p{
+    margin-left: 2%;
+}
+.spanl{
+    color: rgb(255, 23, 23);
+}
+.wholesec{
+    margin: 3%;
+    border: 1px solid black;
+    position: relative;
+    /* bottom: 100px; */
+}
